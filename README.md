@@ -6,6 +6,11 @@ Enough mess, we're 2018. **Afraid of heaps of server logs?** You're right. But w
 If you think that crying is not an option, and also go back to 1998 not in an option then ...
 
 
+```sh
+$ node index --logs
+$ pm2 start index
+```
+
 
 # Just do it
 
@@ -17,11 +22,6 @@ So simple:
 
 ![diagram](graph.png)
 
-
-```sh
-$ node index --logs
-$ pm2 start index
-```
 
 
 ```mermaid
