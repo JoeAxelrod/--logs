@@ -23,9 +23,11 @@ And this will produce a flow chart:
 
 
 
+
+```mermaid
 graph LR
 A[$ node index] -- --logs ? --> B(console.log = console.log)
 A --  non ? --> C(console.log = function)
 B --> D((Life is not so bad))
 C --> D
-
+```
