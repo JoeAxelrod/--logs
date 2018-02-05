@@ -10,18 +10,18 @@ If you think that crying is not an option, and also go back to 1998 not in an op
 # Just do it
 
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
-
-
 See the config.js file. Your eyes come out of holes when you discover how simple our solutions are, sometimes
 
 
-And this will produce a flow chart:
-
+So simple:
 
 ![diagram](graph.png)
 
 
+```sh
+$ node index --logs
+$ pm2 start index
+```
 
 
 ```mermaid
